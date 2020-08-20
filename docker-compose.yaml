@@ -1,0 +1,9 @@
+version: '2'
+services:
+  anaconda:
+    container_name: ml
+    build: .
+    volumes:
+      - "./notebooks:/opt/notebooks"
+    ports:
+      - "3131:8888"
