@@ -4,6 +4,10 @@
 	D:\dockr>cd 20ml 
 	D:\dockr\202ml> docker-compose up --build 
 
+## Resources sharing
+
+	Add D:\dockr
+ 
 ## Runing 
 
 	D:\dockr\202ml> docker-compose up 
