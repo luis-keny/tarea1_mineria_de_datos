@@ -17,14 +17,10 @@ __pycache__/
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
 vendor
-notebooks/art
 notebooks/201bigdata
 notebooks/taller-r
 notebooks/Nemi
-urlis
-rudyr
-joelp
-sahm
-notebooks/notebooksazure/articulonemi
+notebooks/privados
+notebooks/notebooksazure
 
 
