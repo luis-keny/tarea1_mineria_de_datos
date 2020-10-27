@@ -18,9 +18,8 @@ __pycache__/
 .glide/
 vendor
 notebooks/201bigdata
-notebooks/taller-r
 notebooks/Nemi
-notebooks/privados
 notebooks/notebooksazure
-
+notebooks/privados
+notebooks/taller-r
 
