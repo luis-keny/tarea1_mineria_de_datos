@@ -89,17 +89,13 @@ En win o linux instale R:
 (base) root@845d4d868b87:/#apt update
 (base) root@845d4d868b87:/#apt install r-base
 (base) root@845d4d868b87:/#apt install build-essential
-(base) root@845d4d868b87:/# R 
-
->install.packages('IRkernel')
->IRkernel::installspec()
 
 ```
 (base) root@845d4d868b87:/# sudo apt update
 
 Ingrese al shell de R y ejecute:
 ```bash
-(base) root@845d4d868b87:/# R 
+(base) root@845d4d868b87:/#R 
 
 >install.packages('IRkernel')
 >IRkernel::installspec()
