@@ -4,7 +4,7 @@ Proyectos de machine learning con python y R (opcional)
 
 * [Resources sharing to docker](#resources-sharing-to-docker)
 * [Runing form Docker](#runing-form-Docker)
-* [R en Notebook](#r-en-notebook)
+* [R en Notebook (opcional)](#r-en-notebook-(opcional))
 * [License](#license)
 
 ## Resources sharing to docker
@@ -76,7 +76,7 @@ PS D:\dockr\202ml> docker exec -it ml bash
 (base) root@845d4d868b87:/#   
 ```
 
-### R en Notebook
+### R en Notebook (opcional)
 
 Cuando esto no funciona
 ```bash
