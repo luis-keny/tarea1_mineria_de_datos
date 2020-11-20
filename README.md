@@ -4,7 +4,7 @@ Proyectos de machine learning con python y R (opcional)
 
 * [Resources sharing to docker](#resources-sharing-to-docker)
 * [Runing form Docker](#runing-form-Docker)
-* [R en Notebook (opcional)](#r-en-notebook-(opcional))
+* [R en Notebook (opcional)](#r-en-notebook-opcional)
 * [License](#license)
 
 ## Resources sharing to docker
@@ -99,7 +99,10 @@ Ingrese al shell de R y ejecute:
 
 >install.packages('IRkernel')
 >IRkernel::installspec()
-
+[InstallKernelSpec] Installed kernelspec ir in /root/.local/share/jupyter/kernels/ir
+> q()
+Save workspace image? [y/n/c]: y
+(base) root@845d4d868b87:/#     
 ```
 Ver https://irkernel.github.io/installation
 
