@@ -3,6 +3,8 @@ services:
   anaconda:
     container_name: ml
     build: .
+    tty: true
+    restart: always
     volumes:
       - "./notebooks:/opt/notebooks"
     ports:
