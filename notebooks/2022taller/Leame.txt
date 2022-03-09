@@ -1,0 +1,5 @@
+PI.ipynb puede ser ejecutado con esta imagen docker pero
+
+PI Spark-v3.ipynb debe ser ejecutado con una imagen de Spark
+
+PS C:\ sdev> docker run -it --rm -d -p 8888:8888 --name pyspark -v C:\sdev\spark:/home/jovyan jupyter/pyspark-notebook
